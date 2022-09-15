@@ -1,0 +1,150 @@
+{
+    "basics": {
+      "name": "Poovannan M",      
+      "email": "poovannan098@gmail.com",
+      "phone": "+91-9943790706",
+      "degree": "M.Tech,B.Ed",
+      "website": "Your website URL",
+      "summary": "To excel my skills developed and knowledge gained in problem solving, research and perseverance.",
+      "location": {
+        "address": "51-Bajanai koil street, Rendadi village and post",
+        "postalCode": "631102",
+        "city": "Sholinghur",
+        "district": "Ranipet",
+        "State": "TamilNadu"        
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Poovannan M",
+          "url": "https://www.linkedin.com/in/poovannan-m-8b67b6115/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Fresher",
+        "position": "Your job title",
+        "website": "The URL for the employer's website",
+        "startDate": "Your start date, in YYYY-MM-DD format",
+        "endDate": "Your end date, in YYY-MM-DD format (leave blank for a current position)",
+        "summary": "A one-sentence to one-paragraph summary of this employer or position",
+        "highlights": [
+          "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+        ]
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "C.M.Annamalai College of Education, Tamilnadu Teachers Education University - Chennai",
+        "area": "Thiruvallur",
+        "studyType": "Regular",
+        "year": "2021",
+        "gpa": "8.56",
+        "courses":"B.Ed (CS)"
+      },
+      {
+        "institution": "College of Engineering Guindy Campus, Anna University – Chennai",
+        "area": "Guindy, Chennai",
+        "studyType": "Regular",
+        "year": "2019",
+        "gpa": "7.3",
+        "courses": "M.Tech (IT)"
+      },
+      {
+        "institution": "Sri venkateswara college of engineering, Anna University – Chennai",
+        "area": "Sriperumbudur, Chennai",
+        "studyType": "Regular",
+        "year": "2017",
+        "gpa": "6.44",
+        "courses": "B.Tech (IT)"
+      },
+      {
+        "institution": "SRK – BHEL hr sec school",
+        "area": "Ranipet",
+        "studyType": "Regular",
+        "year": "2013",
+        "gpa": "6.75",
+        "courses": "Class 12th"
+      },
+      {
+        "institution": "Govt hr sec school",
+        "area": "Rendadi",
+        "studyType": "Regular",
+        "year": "2011",
+        "gpa": "8.24",
+        "courses": "Class 10th"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Sports",
+        "awarder": "Zonal in Vellore district",
+        "summary": "The School Ball Badminton team and were the “Winners” in Zonal Competition."
+      },
+      {
+        "title": "Quiz",
+        "awarder": "BHEL ind ltd",
+        "summary": "The School Quiz competition and won the “First” prize in BHEL safety day celebration."
+      }
+    ],
+    "Projects": [
+      {
+        "name": "Web Based User Identification System",
+        "tool": "SQL & Visual Basic",       
+        "summary": "Developed a mini project on “Web Based User Identification System” using SQL & Visual Basic."
+      },
+      {
+        "name": "A Cluster based Heterogeneous Scheme using MANET",
+        "tool": "NS2",       
+        "summary": "Developed a project on “A Cluster based Heterogeneous Scheme using MANET” using NS2."
+      },
+      {
+        "name": "A Secure Cluster Management for Big Data Analysis in Software-Defined Networks",
+        "tool": "MiniNet Simulator",       
+        "summary": "Developed a project on “A Secure Cluster Management for Big Data Analysis in Software-Defined Networks” using MiniNet Simulator."
+      },
+      {
+        "name": "Flow-Based Bandwidth Allocation for Secure Cluster in SDN",
+        "tool": "MiniNet Simulator",       
+        "summary": "Developed a project on “Flow-Based Bandwidth Allocation for Secure Cluster in SDN” using MiniNet Simulator."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "90%",
+        "keywords": [
+          "'c', 'c++', 'Php', 'Python', 'HTML', 'CSS', 'JavaScript','SQL'"
+        ]
+      },
+      {
+        "name": "Technical Skill",
+        "level": "100%",
+        "keywords": [
+          "Hardware Troubleshooting"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "fluency": "100%"
+      },
+      {
+        "language": "English",
+        "fluency": "90%"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Sports",
+        "keywords": ["'Cricket', 'Volleyball', 'Ball Badminton', 'Settle Badminton'"]
+      },
+      {
+        "name": "Others",
+        "keywords": ["'Cooking', 'Movies', 'Reading News paper', 'surfing Internet'"]
+      }
+    ]
+  }
